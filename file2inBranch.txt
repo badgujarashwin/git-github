@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1st line in master
+=======
+Text
+>>>>>>> branch1
